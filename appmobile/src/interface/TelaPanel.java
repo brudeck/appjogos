@@ -1,6 +1,6 @@
-package inteface;
+package interfaces;
 
-import inteface.componentes.Imagem;
+import interfaces.componentes.Imagem;
 import java.awt.CardLayout;
 import java.awt.Color;
 import java.awt.event.ActionEvent;
